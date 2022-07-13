@@ -60,6 +60,7 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
